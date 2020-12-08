@@ -1,27 +1,30 @@
 # Traffic_Sign_Detection
-# DATA-602_1 Traffic Sign Detection#
+# DATA-602_1 Traffic Sign Detection
 
 
-*Contributors:*
+Contributors:
   Rushabh Shah
   
 
-#*Overview*:#
+*Overview*:
 
 Self driving cars is the future at which the car industry is looking at. Lane-detection, Traffic-light detection, Traffic- signs detection etc. are the part of automation that are very essential for automation in self-driving cars. The automation in these fields are yet to be accurate and need more accuracy. We will use Convolutional Neural Networks for image classification in this project. In this project we will use keras to define a model, estimate model performance, improve and save model. We will also try to compare different models and decide which will be more appropriate for the task in hand. 
 
 
-#*Project Goal*:#
+
+*Project Goal*:
 
 The goal of this project is to use image classification that is a supervised learning technique using Convolutional Neural Networks to detect traffic signs. The secondary goal is to use different model to get the best results and achieve an accuracy of 95-99% for the same.
 
 
-#*Motivation:*#
+
+*Motivation:*
 
 Automation is progressing in the information technology universe for making it easy for the mankind. Having a dream to work in an automation industry and being a data scientist this project will give me an opportunity to learn how to use image classification with the help of neural networks.
 
 
-#*Methods Applied*#
+
+*Methods Applied*
 
 1. OpenCV for transformation of dimension.
 
@@ -34,7 +37,8 @@ Automation is progressing in the information technology universe for making it e
 5. Two models used with different activation functions which are relu and tanh.
 
 
-#*Data Summary:*#
+
+*Data Summary:*
 
 The German traffic signs detection dataset is provided by [Benchmark](https://benchmark.ini.rub.de//) . 
 
@@ -49,7 +53,8 @@ We will be training the model on the original dataset and will see the accuracy 
 License: CC0: Public Domain
 
 
-#*Summary of files:*#
+
+*Summary of files:*
 
 Data Source:
 
@@ -66,7 +71,8 @@ Images:
 ["Images"](https://github.com/Rushabh771995/Traffic_Sign_Detection/tree/main/images)
 
 
-#*Softwares and Packages:*#
+
+*Softwares and Packages:*
 
 Project Info:
 
